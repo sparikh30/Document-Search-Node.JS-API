@@ -1,0 +1,12 @@
+<html lang="en">
+  <head>
+    <title>Docs Homepage</title>
+  </head>
+  <body>
+    <h1>Docs Homepage</h1>
+    <p><a id="search" href="add.html">Add</a> a new document</p>
+    <p><a id="add" href="search.html">Search</a>
+      documents for one-or-more search-terms.
+    </p>
+</body>
+</html>
